@@ -7,8 +7,8 @@
 
 <div align="center" style="text-align:center">
  
- <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB"/></a>&nbsp
- <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB"></a>
+ <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
  
 
 </div>
