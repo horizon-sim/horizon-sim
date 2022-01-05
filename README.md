@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=hexcode&height=300&section=header&text=I-enable%20Space🚀&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=hexcode&height=300&section=header&text=I-enable%20Space&fontSize=90&fontColor=ffffff)
