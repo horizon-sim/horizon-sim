@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
  
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB) &nbsp;![JS](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+
+<center>hi</center>
