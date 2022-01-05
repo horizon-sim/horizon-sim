@@ -7,6 +7,7 @@
 
 <div align="center" style="text-align:center">
  
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB) &nbsp;![JS](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![JS](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+ <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB"/></a>&nbsp 
 
 </div>
