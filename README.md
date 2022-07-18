@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=hexocode&height=300&section=header&text=🚀%20&fontSize=90&fontColor=ffffff)
+<div>
+ <a href="https://github.com/I-enable"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=i-enable&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="i-enable github stats" /></a>
 
-<a href="https://github.com/I-enable"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=i-enable&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="i-enable github stats" /></a>
-
-<a href="https://github.com/I-enable"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-enable&layout=compact&theme=nord&hide_border=true" /></a> 
-<h1 align="center">
+ <a href="https://github.com/I-enable"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-enable&layout=compact&theme=nord&hide_border=true" /></a> 
+ <h1 align="center">
+ </div>
  
  😎Languages
 </h1>
