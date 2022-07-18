@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=hexocode&height=300&section=header&text=🚀%20&fontSize=90&fontColor=ffffff)
 
+<a href="https://github.com/I-enable"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="i-enable github stats" /></a>
+
+<a href="https://github.com/I-enable"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 <h1 align="center">
+ 
  😎Languages
 </h1>
 
-<a href="https://github.com/I-enable"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="i-enable github stats" /></a>
+
 <div align="center" style="text-align:center">
  
  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB"><br>
