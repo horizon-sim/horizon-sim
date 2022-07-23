@@ -14,7 +14,7 @@
 <br>
 
  <h2 align="center">           
- 🛠 skill 🛠
+ 🛠 Skill 🛠
 </h2>
 
 <div align="center" style="text-align:center">
