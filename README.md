@@ -12,9 +12,9 @@
 <br>
 <br>
 
- <h2 align="center">           
+ <h3 align="center">           
  🛠 Stacks 🛠
-</h2>
+</h3>
 
 <div align="center" style="text-align:center">
  
@@ -26,7 +26,3 @@
 </div>
 <br>
 <br>
-
-<div align="center">
- <a href="https://github.com/I-enable"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-enable&layout=compact&theme=nord&hide_border=true" /></a> 
-  </div>
